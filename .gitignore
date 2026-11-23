@@ -1,0 +1,31 @@
+# Credenciais e configurações locais
+.env
+.env.*
+!/.env.example
+
+# Saídas de compilação e empacotamento
+/bin/
+/out/
+/build/
+/target/
+/dist/
+*.class
+
+# Metadados locais das IDEs
+/.idea/
+*.iml
+/.classpath
+/.project
+/.settings/
+/.factorypath
+/.vscode/*
+!/.vscode/launch.json
+!/.vscode/settings.json
+
+# Logs, backups locais e arquivos do sistema
+*.log
+hs_err_pid*
+/backups/
+/dumps/
+.DS_Store
+Thumbs.db

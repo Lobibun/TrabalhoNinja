@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "[java]": {
+        "editor.quickSuggestions": {
+            "other": "on"
+        },
+        "editor.suggestOnTriggerCharacters": true,
+        "editor.parameterHints.enabled": true,
+        "editor.inlineSuggest.enabled": true
+    }
+}
